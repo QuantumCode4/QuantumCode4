@@ -39,14 +39,21 @@ I’m an undergraduate student in Physics with a strong interest in experimental
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="40%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumCode4&theme=vue-dark&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="30%" />
-</p>
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="100%"/>
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumCode4&theme=vue-dark&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="40%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
