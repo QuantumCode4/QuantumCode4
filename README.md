@@ -2,6 +2,11 @@
   <img src="https://cdn.universoracionalista.org/wp-content/uploads/2020/11/weirdgravity_1024.gif" alt="Image credit: NASA's Goddard Space Flight Center" width="800" height="300" />
 </p>
 
+<h1 align="center">Hello! Hallo! ¡Hola! I'm Juan José Guzmán Mejía</h1>
+<h3 align="center">Undergraduate Physics Student at Universidad de los Andes (Bogotá, Colombia)</h3>
+
+- 🔭 I’m currently working on **Thesis**
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="QuantumCode4's GitHub Stats" />
 </p>
