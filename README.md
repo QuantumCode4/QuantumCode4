@@ -44,18 +44,18 @@ I’m an undergraduate student in Physics at Universidad de los Andes, with a st
 
 ## 📊 GitHub Statistics
 
-<table style="border: none; width: 100%;">
+<table style="border: none;">
   <tr>
-    <td style="border: none; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="100%"/>
     </td>
-    <td style="border: none; width: 50%;">
+    <td style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumCode4&theme=vue-dark&hide_border=true" width="100%"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" width="40%"/>
+    <td colspan="2" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="40%"/>
     </td>
   </tr>
 </table>
