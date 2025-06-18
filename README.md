@@ -1,4 +1,4 @@
-<h1 align="center">Hello! Hallo! ¡Hola! I'm Juan José Guzmán Mejía</h1>
+<h1 align="center">Hi, I'm Juan José Guzmán Mejía</h1>
 <h3 align="center">Undergraduate Physics Student at Universidad de los Andes (Bogotá, Colombia)</h3>
 
 <p align="center">
