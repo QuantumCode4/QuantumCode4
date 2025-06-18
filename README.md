@@ -55,7 +55,7 @@ I’m an undergraduate student in Physics at Universidad de los Andes, with a st
   </tr>
   <tr>
     <td colspan="2" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" width="40%"/>
     </td>
   </tr>
 </table>
