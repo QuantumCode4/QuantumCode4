@@ -21,39 +21,30 @@ I’m an undergraduate student in Physics at Universidad de los Andes, with a st
 ### 🛠️ Languages and Tools
 
 
-<table style="border: none;">
+<table style="width:100%; border:none;">
   <tr>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
+    <!-- Lenguajes y herramientas -->
+    <td style="border:none; vertical-align:top; text-align:left; padding:10px;">
+      <h3>🛠️ Languages and Tools</h3>
+      <p>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        </a>
+        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+        </a>
+        <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+        </a>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        </a>
+      </p>
     </td>
-  <tr>
-    <td colspan="2" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="40%"/>
-    </td>
-  </tr>
-</table>
 
----
-
-### 📊 GitHub Stats
-
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="100%"/>
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumCode4&theme=vue-dark&hide_border=true" width="100%"/>
+    <!-- Gráfico de lenguajes -->
+    <td style="border:none; vertical-align:middle; text-align:center; padding:10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="80%"/>
     </td>
   </tr>
 </table>
