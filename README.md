@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Juan José Guzmán Mejía</h1>
 <h3 align="center">Undergraduate Physics Student at Universidad de los Andes (Bogotá, Colombia)</h3>
 
-- 🔭 I’m currently working on **Thesis**
+- 🔭 I’m currently working on **Thesis** related to Muography.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="QuantumCode4's GitHub Stats" />
