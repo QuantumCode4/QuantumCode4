@@ -23,7 +23,6 @@ I’m an undergraduate student in Physics at Universidad de los Andes, with a st
 
 <table style="border: none;">
   <tr>
-<p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -36,7 +35,6 @@ I’m an undergraduate student in Physics at Universidad de los Andes, with a st
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-</p>
     </td>
   <tr>
     <td colspan="2" align="center" style="border: none;">
