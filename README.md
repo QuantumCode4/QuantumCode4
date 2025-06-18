@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate Physics Student at Universidad de los Andes (Bogotá, Colombia)</h3>
 
 <p align="center">
-  <img src="https://i.redd.it/lhnvupvps4h91.gif" alt="GIF description" width="700" height="350" />
+  <img src="https://i.redd.it/lhnvupvps4h91.gif" alt="GIF description" width="1000" height="350" />
 </p>
 
 - 🔭 I’m currently working on **Thesis**https://github.com/QuantumCode4/QuantumCode4/blob/main/README.md
