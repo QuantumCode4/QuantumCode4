@@ -20,6 +20,9 @@ I’m an undergraduate student in Physics at Universidad de los Andes, with a st
 
 ### 🛠️ Languages and Tools
 
+
+<table style="border: none;">
+  <tr>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -34,6 +37,13 @@ I’m an undergraduate student in Physics at Universidad de los Andes, with a st
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
 </p>
+    </td>
+  <tr>
+    <td colspan="2" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="40%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,11 +56,6 @@ I’m an undergraduate student in Physics at Universidad de los Andes, with a st
     </td>
     <td style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumCode4&theme=vue-dark&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="40%"/>
     </td>
   </tr>
 </table>
