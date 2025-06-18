@@ -68,7 +68,7 @@ I’m an undergraduate student in Physics at Universidad de los Andes, with a st
 
 Feel free to reach out if you're interested in collaboration or discussion:
 
-- ✉️ Email: [juan.guzmanm@uniandes.edu.co](mailto:juan.guzmanm@uniandes.edu.co)
+- ✉️ Email: [juan.guzmanm@uniandes.edu.co](mailto:j.guzmanm@uniandes.edu.co)
 - 💼 LinkedIn: [Juan José Guzmán Mejía](https://www.linkedin.com/in/juan-jos%C3%A9-guzm%C3%A1n-mej%C3%ADa-1b7609305)
 
 ---
