@@ -7,7 +7,7 @@
 
 ---
 
-### 🧑‍🎓 About Me
+## 🧑‍🎓 About Me
 
 I’m an undergraduate student in Physics at Universidad de los Andes, with a strong interest in particle physics. My current focus is on **muography**, the use of cosmic muons to image the interior of large structures.
 
@@ -18,8 +18,9 @@ I’m an undergraduate student in Physics at Universidad de los Andes, with a st
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
+<div align="center">
 <table style="border: none; width: 100%;">
   <tr>
     <td align="left" style="border: none; vertical-align: top;">
@@ -41,6 +42,7 @@ I’m an undergraduate student in Physics at Universidad de los Andes, with a st
     </td>
   </tr>
 </table>
+</div>
 
 ## 📊 GitHub Statistics
 
