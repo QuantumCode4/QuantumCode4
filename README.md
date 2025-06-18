@@ -2,10 +2,6 @@
   <img src="https://cdn.universoracionalista.org/wp-content/uploads/2020/11/weirdgravity_1024.gif" alt="Image credit: NASA's Goddard Space Flight Center" width="800" height="300" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.universoracionalista.org/wp-content/uploads/2020/11/weirdgravity_1024.gif" alt="Image credit: NASA's Goddard Space Flight Center" width="800" height="300" />
-</p>
-
 <h1 align="center">Welcome to my account, I'm Juan José Guzmán Mejía</h1>
 <h3 align="center">Undergraduate Physics Student at Universidad de los Andes (Bogotá, Colombia)</h3>
 
