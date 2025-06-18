@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.scientificamerican.com/sciam/assets/Image/2019/spinningblackhole.gif" alt="GIF description" width="1000" height="600" />
+  <img src="https://static.scientificamerican.com/sciam/assets/Image/2019/spinningblackhole.gif" alt="GIF description" width="1000" height="500" />
 </p>
 
 <p align="center">
