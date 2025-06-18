@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate Physics Student at Universidad de los Andes (Bogotá, Colombia)</h3>
 
 <p align="center">
-  <img src="https://i.redd.it/lhnvupvps4h91.gif" alt="GIF description" width="889" height="500" />
+  <img src="https://i.redd.it/lhnvupvps4h91.gif" alt="GIF description" width="500" height="250" />
 </p>
 
 - 🔭 I’m currently working on **Thesis**
