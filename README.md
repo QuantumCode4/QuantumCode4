@@ -11,6 +11,13 @@
 
 I’m an undergraduate student in Physics at Universidad de los Andes, with a strong interest in experimental and theoretical physics. My current focus is on **muography**, the use of cosmic muons to image the interior of large structures.
 
+### 🧪 Thesis Repository
+
+📂 [`Thesis - Muography Tools & Simulation`](https://github.com/QuantumCode4/Thesis)  
+> *This repository contains the code developed as part of my thesis work. It includes simulations, data analysis, visualizations, and computational tools related to muography. The main goal is to document the research process and ensure reproducibility of the results.*
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -54,8 +61,7 @@ I’m an undergraduate student in Physics at Universidad de los Andes, with a st
 
 Feel free to reach out if you're interested in collaboration or discussion:
 
-- ✉️ Email: [juang.guzmanm@uniandes.edu.co](mailto:juang.guzmanm@uniandes.edu.co)
-- 🔗 LinkedIn: *(add your link here)*
-- 🌐 Personal website (soon)
+- ✉️ Email: [juan.guzmanm@uniandes.edu.co](mailto:juan.guzmanm@uniandes.edu.co)
+- 💼 LinkedIn: [Juan José Guzmán Mejía](https://www.linkedin.com/in/juan-jos%C3%A9-guzm%C3%A1n-mej%C3%ADa-1b7609305)
 
 ---
