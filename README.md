@@ -40,8 +40,8 @@ I’m an undergraduate student in Physics with a strong interest in experimental
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumCode4&theme=vue-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QuantumCode4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumCode4&theme=vue-dark&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
