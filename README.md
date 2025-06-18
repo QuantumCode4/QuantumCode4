@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.universoracionalista.org/wp-content/uploads/2020/11/weirdgravity_1024.gif" alt="Image credit: NASA's Goddard Space Flight Center" width="1000" height="500" />
+  <img src="https://cdn.universoracionalista.org/wp-content/uploads/2020/11/weirdgravity_1024.gif" alt="Image credit: NASA's Goddard Space Flight Center" width="800" height="200" />
 </p>
 
 <p align="center">
