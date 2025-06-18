@@ -6,7 +6,7 @@
 <h3 align="center">Undergraduate Physics Student at Universidad de los Andes (Bogotá, Colombia)</h3>
 
 
-- 🔭 I’m currently working on **Thesis**https://github.com/QuantumCode4/QuantumCode4/blob/main/README.md
+- 🔭 I’m currently working on my **Thesis**
 
 <h3 align="center">Languages and Tools:</h3>
 
