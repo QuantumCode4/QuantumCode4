@@ -9,14 +9,7 @@
 
 ### 🧑‍🎓 About Me
 
-I’m an undergraduate student in Physics with a strong interest in experimental and theoretical research. Currently, I'm working on my **undergraduate thesis**, focused on high-energy particle detection and computational simulations. I’m particularly passionate about:
-
-- 🌀 Particle Physics & Quantum Field Theory  
-- ⚛️ Radiation Imaging Techniques  
-- 🧮 Computational Modeling with Python & C++  
-- 🌌 Fundamental Physics & Scientific Communication  
-
----
+I’m an undergraduate student in Physics at Universidad de los Andes, with a strong interest in experimental and theoretical physics. My current focus is on **muography**, the use of cosmic muons to image the interior of large structures.
 
 ### 🛠️ Languages and Tools
 
